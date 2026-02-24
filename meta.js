@@ -7,7 +7,7 @@ const externalWebsite = "https://samyahmed480.github.io/su-m/"; // لو الاش
 const wrongCodePage = "https://samyahmed480.github.io/su-m/"; // لو الكود مسروق أو مش موجود
 
 // 3. رابط الـ API بتاع شيت جوجل الخاص بيك
-const googleSheetURL = "https://script.google.com/macros/s/AKfycbxV48WX5qZQM5sMMRH2HI5uDonVZTqc1maeMKkJxq8/dev";
+const googleSheetURL = "https://script.google.com/macros/s/AKfycbxmm_hsOFwlN-U5-Muq0xJluyRyY4aGSfwSYUY5IuCpvMdetlBSXbJnu4JSAHT-OUKb/exec";
 
 // 4. تنفيذ الفحص
 if (!clientCode) {
